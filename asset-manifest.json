@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/T3Trucks/static/css/main.55d20400.chunk.css",
+    "main.js": "/T3Trucks/static/js/main.90c48956.chunk.js",
+    "main.js.map": "/T3Trucks/static/js/main.90c48956.chunk.js.map",
+    "runtime-main.js": "/T3Trucks/static/js/runtime-main.9a794122.js",
+    "runtime-main.js.map": "/T3Trucks/static/js/runtime-main.9a794122.js.map",
+    "static/js/2.c96dfab9.chunk.js": "/T3Trucks/static/js/2.c96dfab9.chunk.js",
+    "static/js/2.c96dfab9.chunk.js.map": "/T3Trucks/static/js/2.c96dfab9.chunk.js.map",
+    "static/js/3.8f2a05b0.chunk.js": "/T3Trucks/static/js/3.8f2a05b0.chunk.js",
+    "static/js/3.8f2a05b0.chunk.js.map": "/T3Trucks/static/js/3.8f2a05b0.chunk.js.map",
+    "index.html": "/T3Trucks/index.html",
+    "static/css/main.55d20400.chunk.css.map": "/T3Trucks/static/css/main.55d20400.chunk.css.map",
+    "static/js/2.c96dfab9.chunk.js.LICENSE.txt": "/T3Trucks/static/js/2.c96dfab9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a794122.js",
+    "static/js/2.c96dfab9.chunk.js",
+    "static/css/main.55d20400.chunk.css",
+    "static/js/main.90c48956.chunk.js"
+  ]
+}
